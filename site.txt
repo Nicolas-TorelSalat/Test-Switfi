@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="fr-FR" prefix="og: http://ogp.me/ns#" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Switfi - L’immobilier à portée de main - switfi</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v4.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Switfi, l&#039;application qui vous accompagne dans le choix de votre financement immobilier. Bientôt disponible !"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.switfi.fr/" />
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Switfi - L’immobilier à portée de main - switfi" />
+<meta property="og:description" content="Switfi, l&#039;application qui vous accompagne dans le choix de votre financement immobilier. Bientôt disponible !" />
+<meta property="og:url" content="http://www.switfi.fr/" />
+<meta property="og:site_name" content="switfi" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Switfi, l&#039;application qui vous accompagne dans le choix de votre financement immobilier. Bientôt disponible !" />
+<meta name="twitter:title" content="Switfi - L’immobilier à portée de main - switfi" />
+<meta name="twitter:site" content="@Switfi" />
+<meta name="twitter:creator" content="@Switfi" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.switfi.fr\/","name":"Switfi","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.switfi.fr\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/www.switfi.fr\/","sameAs":["https:\/\/www.facebook.com\/Switfi\/","https:\/\/twitter.com\/Switfi"],"@id":"#organization","name":"Switfi","logo":"http:\/\/www.switfi.fr\/wp-content\/uploads\/2017\/02\/logo-1.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="switfi &raquo; Flux" href="http://www.switfi.fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="switfi &raquo; Flux des commentaires" href="http://www.switfi.fr/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.switfi.fr\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.switfi.fr/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.switfi.fr/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-style-css'  href='http://www.switfi.fr/wp-content/themes/twentysixteen/style.css?ver=4.7' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css'  href='http://www.switfi.fr/wp-content/themes/twentysixteen/css/ie.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css'  href='http://www.switfi.fr/wp-content/themes/twentysixteen/css/ie8.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css'  href='http://www.switfi.fr/wp-content/themes/twentysixteen/css/ie7.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://www.switfi.fr/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.switfi.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.switfi.fr/wp-content/themes/twentysixteen/js/html5.js?ver=3.7.3'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='http://www.switfi.fr/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.switfi.fr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.switfi.fr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7" />
+<link rel='shortlink' href='http://www.switfi.fr/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.switfi.fr/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.switfi.fr%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.switfi.fr/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.switfi.fr%2F&#038;format=xml" />
+<meta name="google-site-verification" content="JEzZiFdMg9KbKmNSTRz8WY8ALeN_eUlH62eq4zN-XgU" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-92200221-1', 'auto');
+  ga('send', 'pageview');
+
+</script>	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+</head>
+
+<body class="home page-template-default page page-id-2 no-sidebar">
+<div id="page" class="site">
+	<div class="site-inner">
+		<a class="skip-link screen-reader-text" href="#content">Aller au contenu principal</a>
+
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-header-main">
+				<div class="site-branding">
+					
+											<p class="site-title"><a href="http://www.switfi.fr/" rel="home"><img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/logo.svg" alt="switom"></a></p>
+									</div><!-- .site-branding -->
+
+									<div id="menu-toggle" class="menu-toggle">
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+
+					<div id="site-header-menu" class="site-header-menu">
+													<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Menu principal">
+																	<div class="menu-main_menu-container"><ul id="menu-main_menu" class="primary-menu"><li id="menu-item-8" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-8"><a href="http://www.switfi.fr/">Accueil</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="#contact">Contact</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="http://www.switfi.fr/blog/">Blog</a></li>
+</ul></div>															</nav><!-- .main-navigation -->
+												<a date-close-menu class="link-mobile" href="#newsletter">Newsletter</a>
+					</div><!-- .site-header-menu -->
+							</div><!-- .site-header-main -->
+
+		</header><!-- .site-header -->
+
+		<div id="content" class="site-content">
+
+<div id="primary">
+	<main id="main" role="main">
+
+
+		
+		<section class="section-intro">
+			<div class="section-intro-content">
+				<h2 class="title">
+					L’immobilier à portée <br class="show-for-small">de main
+				</h2>
+				<h3 class="subtitle">C'est tellement rapide d'obtenir un financement. <br>Comment ?</h3>
+				<a class="button-download">
+					télécharger switfi
+				</a>
+			</div>
+		</section>
+
+		<span class="section-shadow shadow-right" data-shadow></span>
+
+		<section class="section-tags" data-scroll-shadow>
+			<div class="section-tags-content">
+				<div class="tag">
+					<figure>
+						<img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/proximity.svg" alt="Proximité">
+					</figure>
+					Proximité
+				</div>
+				<div class="tag">
+					<figure>
+						<img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/simplicity.svg" alt="Simplicité">
+					</figure>
+					Simplicité
+				</div>
+				<div class="tag">
+					<figure>
+						<img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/security.svg" alt="Sécurité">
+					</figure>
+					Sécurité
+				</div>
+			</div>
+		</section>
+
+		<p class="section-quote">
+			« Le plus court chemin vers votre achat immobilier&nbsp;»
+		</p>
+
+		<section class="section-app">
+			<div class="section-app-container">
+				<div class="section-app-text">
+					<h3 class="title">Switfi est conçu pour une utilisation optimale sur tablette et smartphone</h3>
+					<p class="subtitle">Gratuite, l’application  vous permet de démarrer et suivre votre financement de A à Z.</p>
+				</div>
+				<img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/device-group.png" class="phone-group show-for-small">
+				<img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/device-group@x3.png" class="phone-group hide-for-small">
+				<div class="downlaod-app-button">
+					<a href="#"><img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/apple-play-badge.svg" alt="Disponible sur l'App store"></a>
+					<a href="#"><img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/google-play-badge.svg" alt="Disponible sur le Google play"></a>
+				</div>
+			</div>
+		</section>
+
+		<section class="section-slider">
+
+			<h3 class="title">Comment ça marche ?</h3>
+
+			<div id="silder" class="slider-content">
+				<div class="item current" data-slider-item="1">
+					<div class="item-icon">
+						<div class="droplet">
+							<img data-slider-img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/step-1_white.svg">
+						</div>
+					</div>
+					<div class="item-number">
+						<div class="droplet-inver" data-check="http://www.switfi.fr/wp-content/themes/twentysixteen/img/check.svg">
+							<span>1</span>
+						</div>
+					</div>
+				</div>
+				<div class="item next" data-slider-item="2">
+					<div class="item-icon">
+						<div class="droplet">
+							<img data-slider-img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/step-2.svg">
+						</div>
+					</div>
+					<div class="item-number">
+						<div class="droplet-inver" data-check="http://www.switfi.fr/wp-content/themes/twentysixteen/img/check.svg">
+							<span>2</span>
+						</div>
+					</div>
+				</div>
+				<div class="item next" data-slider-item="3">
+					<div class="item-icon">
+						<div class="droplet">
+							<img data-slider-img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/step-3.svg">
+						</div>
+					</div>
+					<div class="item-number">
+						<div class="droplet-inver" data-check="http://www.switfi.fr/wp-content/themes/twentysixteen/img/check.svg">
+							<span>3</span>
+						</div>
+					</div>
+				</div>
+				<div class="item next" data-slider-item="4">
+					<div class="item-icon">
+						<div class="droplet">
+							<img data-slider-img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/step-4.svg">
+						</div>
+					</div>
+					<div class="item-number">
+						<div class="droplet-inver" data-check="http://www.switfi.fr/wp-content/themes/twentysixteen/img/check.svg">
+							<span>4</span>
+						</div>
+					</div>
+				</div>
+				<div class="item next" data-slider-item="5">
+					<div class="item-icon">
+						<div class="droplet">
+							<img data-slider-img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/step-5.svg">
+						</div>
+					</div>
+					<div class="item-number">
+						<div class="droplet-inver" data-check="http://www.switfi.fr/wp-content/themes/twentysixteen/img/check.svg">
+							<span>5</span>
+						</div>
+					</div>
+				</div>
+				<div class="item next" data-slider-item="6">
+					<div class="item-icon">
+						<div class="droplet">
+							<img data-slider-img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/step-6.svg">
+						</div>
+					</div>
+					<div class="item-number">
+						<div class="droplet-inver" data-check="http://www.switfi.fr/wp-content/themes/twentysixteen/img/check.svg">
+							<span>6</span>
+						</div>
+					</div>
+				</div>
+				<div class="item next last" data-slider-item="7">
+					<div class="item-icon">
+						<div class="droplet">
+							<img data-slider-img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/step-7.svg">
+						</div>
+					</div>
+					<div class="item-number">
+						<div class="droplet-inver" data-check="http://www.switfi.fr/wp-content/themes/twentysixteen/img/check.svg">
+							<span>7</span>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="slider-nav">
+				<div class="prev" data-slider-prev></div>
+				<div class="caption-item">
+					<span data-slider-caption="1">Je remplis mon profil et décris le bien à financer.</span>
+					<span class="hide" data-slider-caption="2">Switfi évalue la faisabilité du  projet et vous propose des financements adaptés.</span>
+					<span class="hide" data-slider-caption="3">Je présélectionne 3 propositions.</span>
+					<span class="hide" data-slider-caption="4">Je charge les pièces justificatives. Switfi vérifie et transmet mon dossier aux banques présélectionnées.</span>
+					<span class="hide" data-slider-caption="5">Je reçois  les accords et valide mon choix final.</span>
+					<span class="hide" data-slider-caption="6">Je reçois les offres de prêt et les retourne.</span>
+					<span class="hide" data-slider-caption="7">Je deviens propriétaire.</span>
+				</div>
+				<div class="next" data-slider-next></div>
+			</div>
+		</section>
+
+		<section class="section-client">
+			<div class="section-client-content">
+				<img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/sophie.jpg">
+				<span class="name">Sophie P. de Montpellier</span>
+				<p class="quote">
+					« Pas le temps de multiplier les rendez vous ! j'ai hâte de faire mon financement via Switfi. Cette appli s'adapte à mes besoins et à mon rythme de vie.&nbsp;»
+				</p>
+			</div>
+			<div class="section-client-content hide-for-small">
+				<img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/loic.jpg">
+				<span class="name">Loïc B. de Lille</span>
+				<p class="quote">
+					« Télécharger toutes les pièces pour mon emprunt avec un téléphone, ça c’est innovant.&nbsp;»
+				</p>
+			</div>
+			<div class="section-client-content show-for-large">
+				<img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/slimen.jpg">
+				<span class="name">Slimen K et Elodie V de Montpellier</span>
+				<p class="quote">
+					« Multiplier les rencontres pour obtenir notre financement ? Avec la petite, impossible pour nous. Nous avons hâte d’utiliser votre application.&nbsp;»
+				</p>
+			</div>
+		</section>
+
+		<section class="section-contact" id="contact">
+			<h3 class="title">Nous contacter</h3>
+
+			<div role="form" class="wpcf7" id="wpcf7-f72-o1" lang="fr-FR" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/#wpcf7-f72-o1" method="post" class="wpcf7-form mailchimp-ext-0.4.36" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="72" />
+<input type="hidden" name="_wpcf7_version" value="4.6" />
+<input type="hidden" name="_wpcf7_locale" value="fr_FR" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f72-o1" />
+<input type="hidden" name="_wpnonce" value="72ec4fa9f4" />
+</div>
+<div class="group-input">
+<div class="select-wrapper">
+		<span class="wpcf7-form-control-wrap your-subject"><select name="your-subject" class="wpcf7-form-control wpcf7-select" aria-invalid="false"><option value="Financement / Julie &amp; Yann">Financement / Julie &amp; Yann</option><option value="Relations entreprises et financement / Jim">Relations entreprises et financement / Jim</option><option value="Marketing et relations presse / Laura">Marketing et relations presse / Laura</option><option value="Administratif / Gaëlle">Administratif / Gaëlle</option><option value="Rejoindre l&#039;équipe Switfi">Rejoindre l&#039;équipe Switfi</option></select></span>
+	</div>
+<p>	<span class="wpcf7-form-control-wrap your-firstname"><input type="text" name="your-firstname" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Prénom" /></span><br />
+	<span class="wpcf7-form-control-wrap your-lastname"><input type="text" name="your-lastname" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Nom" /></span><br />
+	<span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email" /></span>
+</p></div>
+<div class="textarea-content">
+	<span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="30" rows="8" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message"></textarea></span></p>
+</div>
+<p><input type="submit" value="Envoyer" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div><p style="display: none !important"><span class="wpcf7-form-control-wrap referer-page"><input type="hidden" name="referer-page" value="direct visit" size="40" class="wpcf7-form-control wpcf7-text referer-page" aria-invalid="false"></span></p>
+<!-- Chimpmail extension by Renzo Johnson --></form></div>
+		</section>
+
+		<section class="section-blog">
+			<div class="section-blog-content">
+				<h3 class="title">Le blog</h3>
+				<p>L’immobilier par Switfi : financement, tendances et conseils</p>
+				<a class="button" href="http://www.switfi.fr/blog/">C'est ici !</a>
+			</div>
+		</section>
+
+		<section class="section-team">
+			<h3 class="title">Une équipe<br> à votre écoute</h3>
+			<div class="section-team-content">
+				<div class="item">
+					<img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/team-yann.png">
+					<span class="name">Yann</span>
+					<span class="job">CEO et <br>Conseiller en <br>financement</span>
+				</div>
+				<div class="item">
+					<img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/team-gaelle.png">
+					<span class="name">Gaëlle</span>
+					<span class="job">Assistante <br>de direction</span>
+				</div>
+				<div class="item clear">
+					<img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/team-laura.png">
+					<span class="name">Laura</span>
+					<span class="job">Responsable <br>Marketing</span>
+				</div>
+				<div class="item">
+					<img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/team-jim.png">
+					<span class="name">Jim</span>
+					<span class="job">Commercial et <br>Conseiller en <br>financement</span>
+				</div>
+			</div>
+		</section>
+
+		
+	</main><!-- .site-main -->
+
+</div><!-- .content-area -->
+
+
+		</div><!-- .site-content -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+			<div class="footer-section-top">
+				<div class="footer-section-top-content">
+					<div class="section-newsletter" id="newsletter">
+						<h5 class="title">Newsletter</h5>
+						<div role="form" class="wpcf7" id="wpcf7-f148-o2" lang="fr-FR" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/#wpcf7-f148-o2" method="post" class="wpcf7-form mailchimp-ext-0.4.36" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="148" />
+<input type="hidden" name="_wpcf7_version" value="4.6" />
+<input type="hidden" name="_wpcf7_locale" value="fr_FR" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f148-o2" />
+<input type="hidden" name="_wpnonce" value="928d3adf7f" />
+</div>
+<p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Saisissez votre email" /></span><span class="button-submit"><input type="submit" value="Envoyer" class="wpcf7-form-control wpcf7-submit" /></span></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div><p style="display: none !important"><span class="wpcf7-form-control-wrap referer-page"><input type="hidden" name="referer-page" value="direct visit" size="40" class="wpcf7-form-control wpcf7-text referer-page" aria-invalid="false"></span></p>
+<!-- Chimpmail extension by Renzo Johnson --></form></div>					</div>
+					
+					<div class="section-social">
+						<h5 class="title">Nous suivre</h5>
+						<ul class="social-list">
+							<li>
+								<a href="https://twitter.com/Switfi" target="_blank">
+									<img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/social-tw.svg">
+								</a>
+							</li>
+							<li>
+								<a href="https://www.facebook.com/Switfi/" target="_blank">
+									<img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/social-fb.svg">
+								</a>
+							</li>
+						</ul>
+					</div>
+					
+					<div class="section-address">
+						<h5 class="title">Switfi</h5>
+						<span>2 avenue Monteroni d’Arbia</span>
+						<span>immeuble le Syracuse</span>
+						<span>34920 Le Crès</span>
+						<span>04 11 95 07 51</span>
+					</div>
+				</div>
+			</div>
+
+			<div class="footer-section-bottom">
+				<div class="section-link">
+					<ul>
+						<li><a href="http://www.switfi.fr/mentions-legales/">Mentions légales</a></li>
+
+													<li><a href="#contact">Contact</a></li>
+											</ul>
+					<span>Switfi est un produit de la société E-Owner</span>
+				</div>
+			</div>
+
+		</footer><!-- .site-footer -->
+	</div><!-- .site-inner -->
+</div><!-- .site -->
+
+<script type='text/javascript' src='http://www.switfi.fr/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.switfi.fr/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6'></script>
+<script type='text/javascript' src='http://www.switfi.fr/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js?ver=20160816'></script>
+<script type='text/javascript' src='http://www.switfi.fr/wp-content/themes/twentysixteen/js/custom.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.switfi.fr/wp-content/themes/twentysixteen/js/sticky.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.switfi.fr/wp-includes/js/wp-embed.min.js?ver=4.7'></script>
+
+<script type="text/javascript">
+	var sticky = new Sticky('.sidebar-newsletter');
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var newsletter = {"messages":{"email_error":"Votre email est incorrect !","name_error":"The name is not correct","surname_error":"The last name is not correct","privacy_error":"You must accept the privacy statement"},"profile_max":"20"};
+if (typeof newsletter_check !== "function") {
+window.newsletter_check = function (f) {
+    var re = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-]{1,})+\.)+([a-zA-Z0-9]{2,})+$/;
+    if (!re.test(f.elements["ne"].value)) {
+        alert("Votre email est incorrect !");
+        return false;
+    }
+    for (var i=1; i<20; i++) {
+    if (f.elements["np" + i] && f.elements["np" + i].required && f.elements["np" + i].value == "") {
+        alert("");
+        return false;
+    }
+    }
+    if (f.elements["ny"] && !f.elements["ny"].checked) {
+        alert("You must accept the privacy statement");
+        return false;
+    }
+    return true;
+}
+}
+//]]>
+</script>
+
+</body>
+</html>
