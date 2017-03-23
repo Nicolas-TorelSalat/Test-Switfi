@@ -13,13 +13,13 @@
 <link rel="canonical" href="http://www.switfi.fr/" />
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Switfi - L’immobilier à portée de main - switfi" />
+<meta property="og:title" content="Switfi - Être accompagné pour votre emprunt immobilier n'a jamais autant rapporté." />
 <meta property="og:description" content="Switfi, l&#039;application qui vous accompagne dans le choix de votre financement immobilier. Bientôt disponible !" />
 <meta property="og:url" content="http://www.switfi.fr/" />
 <meta property="og:site_name" content="switfi" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:description" content="Switfi, l&#039;application qui vous accompagne dans le choix de votre financement immobilier. Bientôt disponible !" />
-<meta name="twitter:title" content="Switfi - L’immobilier à portée de main - switfi" />
+<meta name="twitter:title" content="Switfi - Être accompagné pour votre emprunt immobilier n'a jamais autant rapporté. - switfi" />
 <meta name="twitter:site" content="@Switfi" />
 <meta name="twitter:creator" content="@Switfi" />
 <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.switfi.fr\/","name":"Switfi","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.switfi.fr\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
@@ -143,19 +143,19 @@ img.emoji {
 					<figure>
 						<img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/proximity.svg" alt="Proximité">
 					</figure>
-					Proximité
+					Financez votre projet ou que vous soyez.
 				</div>
 				<div class="tag">
 					<figure>
 						<img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/simplicity.svg" alt="Simplicité">
 					</figure>
-					Simplicité
+					Gagnez du temps, notre application ne dort jamais.
 				</div>
 				<div class="tag">
 					<figure>
 						<img src="http://www.switfi.fr/wp-content/themes/twentysixteen/img/security.svg" alt="Sécurité">
 					</figure>
-					Sécurité
+					Obtenez les meilleurs conditions du marché.
 				</div>
 			</div>
 		</section>
